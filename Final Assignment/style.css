@@ -9,7 +9,7 @@
 .home{
     height: 620px;
     width: 100%;
-    background-image:url(Images/gallery/self.jpg);
+    background-image:url(images/gallery/self.jpg);
     background-position-y: top; 
     background-size: cover;
     position: relative;
